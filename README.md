@@ -3,7 +3,7 @@
 
 Hello everyone, my name is Davide.
 
-`🧑‍🎓BSc in Mathematical Engineering at Polimi` \\
+`🧑‍🎓BSc in Mathematical Engineering at Polimi` \  
 `👨‍💻MSc in Data Science at Università degli studi Milano-Bicocca` 
 
 
