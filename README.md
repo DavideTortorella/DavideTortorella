@@ -12,4 +12,7 @@ Hello everyone, my name is Davide.
   
 - [**Loan Approval Classification - Machine Learning**](https://hub.knime.com/davide_tortorel/spaces/Public/~zUEd55kZWrSfAa4L/): project performed via the Knime Analytics Platform. Compared and trained various classification algorithms to label loan applicants as either risky (1) or not risky (0), based on their likelihood of repaying the loan.
 
+- [**Regional Inequalities in Europe - Clustering**](https://github.com/DavideTortorella/Netflix-DataVisualization): clustering, cohesion and counterfactual analysis were applied on real data coming from OECD Regional Well-Being dataset and the Freedom House political freedom scores to try to answer the following research question:
+ \textit{To what extent does there exist a gap between Eastern and Western Europe in terms of socio-economic conditions and political freedoms? An analysis based on clustering using income, employment, health, education, and political indicators.}
+  
 - [**Netflix - Data Visualization**](https://github.com/DavideTortorella/Netflix-DataVisualization): exploratory data analysis performed on a Kaggle dataset to create an Interactive Dashboard. The goal was to provide advices to produce a "Successful Show". The audience is then a plausible Content-Maker.
